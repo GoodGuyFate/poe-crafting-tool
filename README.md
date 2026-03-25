@@ -100,8 +100,7 @@ Contact us via Discord to purchase.
 
 **Payment methods accepted:**
 - Binance P2P (USDT) — preferred
-- WorldRemit (direct to Vodafone Cash)
-- Western Union
+- Paypal
 
 ---
 
@@ -116,7 +115,10 @@ License is single-user only.
 
 ## Screenshots
 
-*Coming soon*
+<img width="902" height="999" alt="bot image 1" src="https://github.com/user-attachments/assets/0b5f6809-0ed5-4997-bf2e-6e0b4c34e879" />
+<img width="904" height="998" alt="bot image 2" src="https://github.com/user-attachments/assets/41d4ff6b-f0a5-4063-b0c2-bb0081bd0dff" />
+<img width="901" height="998" alt="bot image 3" src="https://github.com/user-attachments/assets/4570bb7f-6426-455f-ba7f-f8d185b430f3" />
+<img width="1720" height="1185" alt="bot image 4" src="https://github.com/user-attachments/assets/8d224d45-63d6-453f-98dd-187fc75c7bcc" />
 
 ---
 
