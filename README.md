@@ -122,6 +122,10 @@ License is single-user only.
 
 ---
 
+## Showcase
+
+https://www.youtube.com/watch?v=2W5Zl_XHODs
+
 <p align="center">
   Built for crafters who actually know what they want.
 </p>
